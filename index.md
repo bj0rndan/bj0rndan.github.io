@@ -8,5 +8,5 @@ I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Sc
 ## Current Interests and Projects:
 
 - Website Design
-- [GitHub Pages](http://laderast.github.io)
+- [GitHub Pages](http://bj0rndan.github.io)
 - Academia
