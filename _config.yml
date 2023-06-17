@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Academic Website of Daniil Valyano
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Daniil Valyano  
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  bio: "Daniil Valyano is a Research Collaborator at the University of Jaén. He is currently working on computer vision applications in agriculture and deep learning applications for sensor-based measurements as part of the Group of Robotics, Automatics and Computer Vision (GRAV)."
+  email: dv000002@red.ujaen.es
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
+  twitter: #username
+  linkedin: daniilvalyano
+  github: bj0rndan
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
