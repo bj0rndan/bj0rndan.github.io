@@ -15,4 +15,4 @@ The works on display are not mere objects, but rather intricate processes of gat
 CrearIA also invites us to reflect on the artistic potential of AI and the human creativity that defines our species.
 
 
-![placeholder](images/UJA.C pc crearIA - pantallaH [af].jpg)
+![CrearIA_image](images/crearia1.jpg)
