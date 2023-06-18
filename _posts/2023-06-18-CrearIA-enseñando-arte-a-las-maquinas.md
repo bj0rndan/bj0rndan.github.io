@@ -15,4 +15,4 @@ The works on display are not mere objects, but rather intricate processes of gat
 CrearIA also invites us to reflect on the artistic potential of AI and the human creativity that defines our species.
 
 
-<img src="[https://github.com/bj0rndan/bj0rndan.github.io/blob/master/images/UJA.C%20pc%20crearIA%20-%20pantallaH%20%5Baf%5D.jpg](https://github.com/bj0rndan/bj0rndan.github.io/blob/84b876bba8f023248fcf4f00f03c3ac9a361ccad/images/UJA.C%20pc%20crearIA%20-%20pantallaH%20%5Baf%5D.jpg)https://github.com/bj0rndan/bj0rndan.github.io/blob/84b876bba8f023248fcf4f00f03c3ac9a361ccad/images/UJA.C%20pc%20crearIA%20-%20pantallaH%20%5Baf%5D.jpg" width = 1024 height = 576> </p>
+<img src="https://github.com/bj0rndan/bj0rndan.github.io/blob/84b876bba8f023248fcf4f00f03c3ac9a361ccad/images/UJA.C%20pc%20crearIA%20-%20pantallaH%20%5Baf%5D.jpg" width = 1024 height = 576> </p>
