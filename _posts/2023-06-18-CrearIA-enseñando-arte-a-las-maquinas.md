@@ -13,3 +13,6 @@ CrearIA is an exhibition that showcases the fascinating intersection of art and 
 The works on display are not mere objects, but rather intricate processes of gathering, transmitting, analyzing, producing and refining knowledge.
 
 CrearIA also invites us to reflect on the artistic potential of AI and the human creativity that defines our species.
+
+
+<img src="https://github.com/bj0rndan/bj0rndan.github.io/blob/master/images/UJA.C%20pc%20crearIA%20-%20pantallaH%20%5Baf%5D.jpg" width = 1024 height = 576> </p>
